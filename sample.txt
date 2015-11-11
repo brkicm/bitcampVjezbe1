@@ -2,4 +2,4 @@ Hello world
 
 ovo je sa development brancha
 
-malo drugaciji fajl
+malo drugaciji nije nego sa druge fajl
